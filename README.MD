@@ -38,8 +38,8 @@ The Capital Box is a professional financial services platform designed to provid
 ```
 TCB-Main/
 ├── index.html              # Homepage with main service offerings
-├── About.html              # About us page with company information
-├── contactUs.html          # Contact form and information
+├── about.html              # About us page with company information
+├── contact.html          # Contact form and information
 ├── taxSolution.html        # Tax planning and services
 ├── retirementSolutions.html # Retirement planning services
 ├── networkSolution.html    # Business networking services
