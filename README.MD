@@ -51,13 +51,13 @@ TCB-Main/
 ├── global.css              # Global custom styles
 └── public/                 # Public assets
     └── assets/             # Images and other static assets
-        ├── logo-1.png      # Company logo
-        ├── hero-img.png    # Hero section background
-        ├── img-1.png       # Service image - Tax Solutions
-        ├── img-2.png       # Service image - Risk Management
-        ├── img-3.png       # Service image - Retirement Solutions
-        ├── SERVICES01.png  # Service background image
-        ├── SERVICES02.png  # Service background image
+        ├── logo-1.webp      # Company logo
+        ├── hero-img.webp    # Hero section background
+        ├── img-1.webp       # Service image - Tax Solutions
+        ├── img-2.webp       # Service image - Risk Management
+        ├── img-3.webp       # Service image - Retirement Solutions
+        ├── SERVICES01.webp  # Service background image
+        ├── SERVICES02.webp  # Service background image
         └── ...             # Other images and assets
 ```
 
